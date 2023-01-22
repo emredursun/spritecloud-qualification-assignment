@@ -1,9 +1,9 @@
 <h1 align="center">Candidate Qualification Assignment</h1>
-Test Automation<br/>
-[WEB & API]<br/>
-V1.4<br/>
-Murilo Machado<br/>
-Mark Barzilay<br/>
+<h2 align="center">Test Automation</h2>
+<h2 align="center">[WEB & API]</h2>
+<h2 align="center">V1.4</h2>
+<h3 align="center">Murilo Machado</h3>
+<h3 align="center">Mark Barzilay</h3>
 
 <br/>
 
