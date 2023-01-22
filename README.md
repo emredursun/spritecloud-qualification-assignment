@@ -1,10 +1,9 @@
-Candidate Qualification Assignment
-Test Automation
-[WEB & API]
-V1.4
-Murilo Machado
-Mark Barzilay
-<h1 align="center">TA Qualification Assignment</h1>
+<h1 align="center">Candidate Qualification Assignment</h1>
+Test Automation<br/>
+[WEB & API]<br/>
+V1.4<br/>
+Murilo Machado<br/>
+Mark Barzilay<br/>
 
 <br/>
 
