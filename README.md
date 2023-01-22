@@ -39,6 +39,4 @@ Given
    Welcome aboard!
    ● You have a new job at spriteCloud!
    Candidate Qualification Assignment Page 2 of 2
-   O Generaal Vetterstraat 72, 1059 BW, Amsterdam – E info@spritecloud.com – W www.spritecloud.com – Twitter www.twitter.com/spritecloud#� �s�p�r�i�t�e�c�l�o�u�d�-�q�u�a�l�i�f�i�c�a�t�i�o�n�-�a�s�s�i�g�n�m�e�n�t�
-�
-�
+   O Generaal Vetterstraat 72, 1059 BW, Amsterdam – E info@spritecloud.com – W www.spritecloud.com – Twitter www.twitter.com/spritecloud
