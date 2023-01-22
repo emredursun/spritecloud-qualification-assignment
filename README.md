@@ -10,7 +10,7 @@ Mark Barzilay
 
 ___
 
-<h2 align="center">Scenario</h2>
+<h2 align="left">Scenario</h2>
 ● Amaze us! By displaying not only your skill-set (hard and soft skills) but also who you are!
 Given
 1. Environment and specs:
