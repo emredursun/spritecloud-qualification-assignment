@@ -10,9 +10,9 @@
 ___
 
 <h2 align="left">Scenario</h2>
-● Amaze us! By displaying not only your skill-set (hard and soft skills) but also who you are!
-Given
-1. Environment and specs:
+● Amaze us! By displaying not only your skill-set (hard and soft skills) but also who you are!<br/>
+Given<br/>
+1. Environment and specs:<br/>
    - http://www.uitestingplayground.com/ (UI)
    - https://petstore.swagger.io/ (API)
 2. Required scripting language: Javascript, Typescript, Java, Python or Ruby
